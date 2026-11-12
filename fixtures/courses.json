@@ -1,0 +1,26 @@
+{
+  "courses": [
+    {
+      "course": "c1",
+      "students": 2,
+      "per_student_base": 1,
+      "base": 2,
+      "extra": 6,
+      "weight": 1,
+      "compatible_resources": [
+        "pool"
+      ]
+    },
+    {
+      "course": "c2",
+      "students": 2,
+      "per_student_base": 1,
+      "base": 2,
+      "extra": 6,
+      "weight": 1,
+      "compatible_resources": [
+        "pool"
+      ]
+    }
+  ]
+}

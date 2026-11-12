@@ -1,0 +1,17 @@
+[
+  {
+    "path": "fixtures/bottleneck.json",
+    "sha256": "5102e777238a45a524526981b66483d5d25cc49b5f6782fad6a53c2f2cec627f",
+    "size_bytes": 515
+  },
+  {
+    "path": "fixtures/courses.json",
+    "sha256": "a0287ad15e4e772b5dbd88a86dd10f0270086a8443e4cabbd7e3bfd549d4d3dd",
+    "size_bytes": 410
+  },
+  {
+    "path": "fixtures/resources.json",
+    "sha256": "792694df9caf2d63ee496fce340baab8f7aaf48a3d01d0898cb59c35253a7780",
+    "size_bytes": 194
+  }
+]

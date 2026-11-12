@@ -1,0 +1,15 @@
+{
+  "resources": [
+    {
+      "resource": "pool",
+      "capacity": 10,
+      "factor": 1
+    }
+  ],
+  "sensitivity_capacities": [
+    8,
+    10,
+    12
+  ],
+  "certificate_tolerance": 1e-08
+}
